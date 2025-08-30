@@ -4,15 +4,6 @@ Pokemon emerald ROM im making with new moves and retypings.
 READ THIS AS CODE OR THE LINE BREAKS ARE NOT VISIBLE.
 
 
-typing on line 6
-move changes on line 23
-move retypes on line
-new moves on line
-altered pokemon on line
-retyped pokemon on line
-
-
-
 Thank you for downloading/reading
 
 In this ROM there is no rock or poison typing.
