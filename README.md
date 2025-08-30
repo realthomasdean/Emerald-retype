@@ -107,6 +107,9 @@ Geodude Line > Bromet (Space)
 Bulbasaur Line > (Light/Space/Terra)
 Ralts > (add ???)
 Aron > Light (later stages)
+MACHOKE gains AIR/FIGHTING
+PONYTA > PSYONI (PSYCHI)
+RAPIDASH > TRICORN (PSYCHI/???)
 
 In this game, there are 5 starters. to see them all, continue pressing right on the rightmost pokeball (pokemonname) and it will show you the options for the others.
 
