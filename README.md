@@ -1,7 +1,7 @@
 # Emerald-retype
 Pokemon emerald ROM im making with new moves and retypings. 
 
-READ THIS AS CODE OR THE LINE BREAKS ARE NOT VISIBLE.
+READ THIS AS CODE OR THE LINE BREAKS ARE NOT VISIBLE AND FORMATTING BREAKS.
 
 
 Thank you for downloading/reading
